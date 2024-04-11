@@ -13,10 +13,10 @@ with a public autograder is
 
 Here's lints to the relevant materials:
 
-- [SP21 Course Website](https://sp21.datastructur.es)
-- [Skeleton code](https://github.com/Berkeley-CS61B/skeleton-sp21)
-- [Java Libraries](https://github.com/Berkeley-CS61B/library-sp21)
-- [Lecture Code](https://github.com/Berkeley-CS61B/lectureCode-sp21)
+- [SP24 Course Website](https://sp24.datastructur.es)
+- [Skeleton code](https://github.com/Berkeley-CS61B/skeleton-sp24)
+- [Java Libraries](https://github.com/Berkeley-CS61B/library-sp24)
+  
 
 ## Tooling
 
